@@ -8,4 +8,3 @@ num4 = 40;
 
 #Git is free software.
 
-#diff test
